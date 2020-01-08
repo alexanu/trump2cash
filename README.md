@@ -1,5 +1,10 @@
 # Trump2Cash
 
+Schema is [here](https://bubbl.us/NDc3NDc4NC80NDAxNTEzLzQ4NjU4MWEwYmMzYzNiMWNiOGE2YTE5NTIyMGJhOGNm@X?utm_source=shared-link&utm_medium=link&s=10374972).
+
+
+
+
 This bot watches [Donald Trump's tweets](https://twitter.com/realDonaldTrump)
 and waits for him to mention any publicly traded companies. When he does, it
 uses sentiment analysis to determine whether his opinions are positive or
